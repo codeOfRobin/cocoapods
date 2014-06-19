@@ -1,0 +1,13 @@
+PODS:
+  - RPSlidingMenu (1.0.3)
+  - SAMGradientView (0.2.1)
+
+DEPENDENCIES:
+  - RPSlidingMenu
+  - SAMGradientView
+
+SPEC CHECKSUMS:
+  RPSlidingMenu: d62f7c87eb7d8c630c67fdf63b9b4e5d94fff6b3
+  SAMGradientView: 37ef027b0da8b5fd85bfdfef49801b5262160998
+
+COCOAPODS: 0.33.1

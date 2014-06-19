@@ -1,0 +1,2 @@
+pod 'SAMGradientView'
+pod 'RPSlidingMenu'
